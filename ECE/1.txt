@@ -1,3 +1,0 @@
-  code for assembly language RISCV.
-  all the .hex file can be run at the RISCV simulator.
-  https://eseo-tech.github.io/emulsiV/
